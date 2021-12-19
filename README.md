@@ -1,4 +1,4 @@
-<h1 align='center'> Oi, me chamo Ryan :wave: </h1>
+<h1 align='center'> Hey, my name is Ryan :wave: </h1>
 
 <div align='center'>
   <a href="https://github.com/ryanwebstert">
