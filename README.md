@@ -12,8 +12,6 @@
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
-| Introduction to space technologies - INPE | São José dos Campos-SP | 126 Hr |
-
 </details>
 <details>
 <summary>Workshops & Voluntering</summary>
