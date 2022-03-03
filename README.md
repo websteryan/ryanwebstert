@@ -12,6 +12,7 @@
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
+| CS50- Computer Science Harvard | Fundação Estudar | 25 hrs |
 </details>
 <details>
 <summary>Workshops & Voluntering</summary>
