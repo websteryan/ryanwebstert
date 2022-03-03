@@ -1,5 +1,5 @@
 # 👋 Hello person!
-### I'm Ryan Webster <a href="https://www.imagensanimadas.com/cat-coelhos-327.htm">  <img src="https://www.imagensanimadas.com/data/media/327/coelho-imagem-animada-0421.gif" border="0" alt="coelho-imagem-animada-0421" /></a>
+### I'm Ryan Webster
 
     
 - 🌱 I’m currently learning **Flutter and good practices to clean code**.
@@ -7,7 +7,7 @@
 
 ---- 
 <!--START_SECTION:table-->
-/* <details>
+<details>
 <summary>Courses List</summary>
 
 
@@ -15,7 +15,7 @@
 | :---: | :---: | :---: |
 | Introduction to space technologies - INPE | São José dos Campos-SP | 126 Hr |
 
-</details> */
+</details>
 <details>
 <summary>Workshops & Voluntering</summary>
 
