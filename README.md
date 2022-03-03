@@ -1,9 +1,8 @@
-# 👋 Hello person!
+# 👋 Hello!
 ### I'm Ryan Webster
 
     
 - 🌱 I’m currently learning **Flutter and good practices to clean code**.
-- ⚡ Fun fact: My family has a pet turkey.
 
 ---- 
 <!--START_SECTION:table-->
@@ -28,9 +27,5 @@
 --------
 
  # <i> "I fully believe that a great future depends on good technology and education!"</i> 
- 
- <p align="left">
-  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
-</p>
 
 # let's code! <3
