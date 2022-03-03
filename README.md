@@ -1,26 +1,36 @@
-<h1 align='center'> Hey, my name is Ryan :wave: </h1>
+# 👋 Hello person!
+### I'm Ryan Webster <a href="https://www.imagensanimadas.com/cat-coelhos-327.htm">  <img src="https://www.imagensanimadas.com/data/media/327/coelho-imagem-animada-0421.gif" border="0" alt="coelho-imagem-animada-0421" /></a>
 
-<div align='center'>
-  <a href="https://github.com/ryanwebstert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwebstert&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block" align='center'><br>
-  <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ryan-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Ryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ryan-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ryan-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-</div>
-  
-  ##
+    
+- 🌱 I’m currently learning **Flutter and good practices to clean code**.
+- ⚡ Fun fact: My family has a pet turkey.
+
+---- 
+<!--START_SECTION:table-->
+/* <details>
+<summary>Courses List</summary>
+
+
+| Course | Place | Hours |
+| :---: | :---: | :---: |
+| Introduction to space technologies - INPE | São José dos Campos-SP | 126 Hr |
+
+</details> */
+<details>
+<summary>Workshops & Voluntering</summary>
+
+| Role | Topic | Place | Year |
+| :---: | :---: | :---: | :---: |
+| Developer | Projeto de Extensão | Cuiabá-MT | 2020 ~ 2021 |
+</details>
+
+
+--------
+
+ # <i> "I fully believe that a great future depends on good technology and education!"</i> 
  
-<div align='center'> 
-  <a href="https://instagram.com/ryanwebstert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:webstertrajano2gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryan-webster-3043ba207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+ <p align="left">
+  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
+</p>
+
+# let's code! <3
