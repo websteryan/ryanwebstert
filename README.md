@@ -25,6 +25,5 @@
 
 --------
 
- # <i> "I fully believe that a great future depends on good technology and education!"</i> 
 
 # let's code!
