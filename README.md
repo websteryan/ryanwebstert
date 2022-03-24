@@ -2,7 +2,7 @@
 ### I'm Ryan Webster
 
     
-- 🌱 I’m currently learning **Flutter and good practices to clean code**.
+- 🌱 I’m currently learning **Java, Flutter and good practices to clean code**.
 
 ---- 
 <!--START_SECTION:table-->
