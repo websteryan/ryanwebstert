@@ -5,15 +5,7 @@
 - 🌱 I’m currently learning **Java, Flutter and good practices to clean code**.
 
 ---- 
-<!--START_SECTION:table-->
-<details>
-<summary>Courses List</summary>
 
-
-| Course | Place | Hours |
-| :---: | :---: | :---: |
-| CS50- Computer Science Harvard | Fundação Estudar | 25 hrs |
-</details>
 <details>
 <summary>Workshops & Voluntering</summary>
 
