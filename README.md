@@ -12,7 +12,6 @@
 | Role | Topic | Place | Year |
 | :---: | :---: | :---: | :---: |
 | Developer | Projeto de Extensão - Flutter | IFMT | 2020 ~ 2021 |
-| Fullstack Developer | React Native Apps | AllDevelopers | 2020 ~ 2021 |
 </details>
 
 
