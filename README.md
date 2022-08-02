@@ -2,7 +2,7 @@
 ### I'm Ryan Webster
 
     
-- 🌱 I’m currently learning **Python, React and good practices to clean code**.
+- 🌱 I’m currently learning **React and good practices to clean code**.
 
 ---- 
 
