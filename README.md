@@ -17,3 +17,5 @@
 <img width="450em" alt="Status Github Ryan" src="https://github-readme-stats.vercel.app/api?username=RyanWebster&show_icons=true&theme=dracula" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
 </div>
+
+![snake gif](https://github.com/ryanwebstert/ryanwebstert/blob/output/github-contribution-grid-snake.svg)
