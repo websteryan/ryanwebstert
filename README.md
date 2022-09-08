@@ -1,8 +1,10 @@
 ### Oi, Sou o Ryan - aka Webster 😀
 
-## Sou estudante e desenvolvedor!
+## Sou estudante e desenvolvedor
 
 - 🌱 Aperfeiçoando Flutter
+- 🎓 Cursando Engenharia de Software
+- 🥅 Metas: Ajudar jovens programadores
 
 ### Conecte comigo:
 
