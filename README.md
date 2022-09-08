@@ -4,7 +4,7 @@
 
 - 🌱 Aperfeiçoando Flutter
 - 🎓 Cursando Engenharia de Software
-- 🥅 Metas: Ajudar jovens programadores
+- 🥅 Meta para 2023: Ajudar jovens programadores
 
 ### Conecte comigo:
 
