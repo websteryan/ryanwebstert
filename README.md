@@ -1,21 +1,19 @@
-# 👋 Hello!
-### I'm Ryan Webster
+### Oi, Sou o Ryan - aka Webster 😀
 
-    
-- 🌱 I’m currently learning **React and good practices to clean code**.
+## Sou estudante e desenvolvedor!
 
----- 
+- 🌱 Aperfeiçoando Flutter
 
-<details>
-<summary>Workshops & Voluntering</summary>
+### Conecte comigo:
 
-| Role | Topic | Place | Year |
-| :---: | :---: | :---: | :---: |
-| Developer | Projeto de Extensão - Flutter | IFMT | 2020 ~ 2021 |
-</details>
+<div>
+  
+  <a href="https://www.linkedin.com/in/ryanwebstert/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:webstertrajano2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lumecode/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
 
-
---------
-
-
-# let's code!
+<div align="center">
+<img width="450em" alt="Status Github Ryan" src="https://github-readme-stats.vercel.app/api?username=RyanWebster&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
+</div>
