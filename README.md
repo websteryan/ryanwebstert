@@ -14,9 +14,5 @@
   <a href="https://www.instagram.com/websteryan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-<img width="450em" alt="Status Github Ryan" src="https://github-readme-stats.vercel.app/api?username=ryanwebstert&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwebstert&layout=compact&theme=dracula"/>
-</div>
 
 ![snake gif](https://github.com/ryanwebstert/ryanwebstert/blob/output/github-contribution-grid-snake.svg)
