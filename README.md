@@ -2,9 +2,8 @@
 
 ## Sou estudante e desenvolvedor
 
-- 🌱 Aperfeiçoando Flutter
+- 🌱 Aperfeiçoando Java
 - 🎓 Cursando Engenharia de Software
-- 🥅 Meta para 2023: Ajudar jovens programadores
 
 ### Conecte comigo:
 
